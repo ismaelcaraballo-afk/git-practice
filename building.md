@@ -1,0 +1,1 @@
+I want to build applications that make people's lives easier. I'm particularly interested in creating tools for productivity and automation.
